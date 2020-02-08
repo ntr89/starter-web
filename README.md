@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any web server or local file 
 
 ## How to contribute
 
+Please fork this repo and the issue Pull Requests for review.
+
 ## Copyright
 
 2020 NTR
