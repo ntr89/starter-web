@@ -20,4 +20,4 @@ Please fork this repo and the issue Pull Requests for review.
 
 ## Copyright
 
-2020 NTR
+2020 NTR. All Rights Reserved.
